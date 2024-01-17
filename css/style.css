@@ -1,0 +1,31 @@
+/*common start*/
+body{
+	margin: 0;
+font-family: 'Playfair Display', serif;
+font-size: 16px;
+font-family: 400;
+color: #626262;
+}
+
+/*common end*/
+header{
+
+}
+.container{}
+
+.logo{}
+.logo a{}
+.logo a img{}
+
+.manu{
+	
+}
+.manu ul{
+
+}
+.manu ul li{}
+.manu ul li a{}
+.manu ul li:last child a{}
+.manu ul li a :hover{
+	
+}
